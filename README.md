@@ -1,1 +1,3 @@
-#BookWorm
+#BookWorm 
+
+This is an authentication app
